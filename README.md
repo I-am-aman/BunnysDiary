@@ -1,6 +1,6 @@
 # BunnysDiary
-A travel assistant app for planning and managing vacations, holiday tours, trips. Using this app one can find 
-weather conditions, famous tourist places, facts, organizing trips, showing famous tourist spots around current location etc.
+This is a travel assistant app for planning and managing vacations, holiday tours, trips etc. Using this app, one can find 
+weather conditions, famous tourist places, facts about cities, organize trips, see famous tourist spots around current location etc.
 
 <p align="center">
   <img height="400" src="screenshots/img4.jpeg">
